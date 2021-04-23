@@ -4,11 +4,11 @@
     "witness": ""
         },
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/lidi-11/lidi1/main/lidi-logo-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/lidi-11/lidi1/main/lidi-logo.png",
         "location": "",
         "social": {
-            "twitter_handle": "",
+            "twitter_handle": "LIDIevents",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
